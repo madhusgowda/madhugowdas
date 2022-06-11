@@ -1,7 +1,7 @@
 ### Namasthe Geleyare 👋 Madhu S Gowda here,
 <img src="https://drive.google.com/uc?export=view&id=1v25-YSN30Woe8AYSTIKSd62-zSmqgv94" align="right" style="width: 300px; max-width: 100%; height: 350px" title="Click to enlarge picture" />
 
-<p align="Left"> <img src="https://github-readme-stats.vercel.app/api?username=MadhuS-1605&show_icons=true&theme=gotham" alt="madhusgowda" /></p>
+<p align="Left"> <img src="https://github-readme-stats.vercel.app/api?username=madhugowdas&show_icons=true&theme=gotham" alt="madhusgowda" /></p>
 
 **Currently working with:**
 </br>
@@ -45,7 +45,7 @@
   <img align="left" alt="Madhu S Gowda | Youtube" width="22px" src="https://github.com/hussainweb/hussainweb/blob/main/icons/youtube.png" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=MadhuS-1605.MadhuS-1605)
+![](https://visitor-badge.glitch.me/badge?page_id=madhusgowda)
 </br>
 
 **Operating System's i use:**

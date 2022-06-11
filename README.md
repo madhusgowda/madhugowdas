@@ -14,7 +14,28 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Way's to communicate me:
+
+<a href="[https://www.instagram.com/abhisheknaiidu/](https://www.instagram.com/madhu_suresh_gowda/)">
+  <img align="left" alt="Madhu's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+</a>
+
+<a href="[https://twitter.com/abhisheknaiidu](https://twitter.com/thenameismadhus)">
+  <img align="left" alt="Madhu S Gowda | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+
+<a href="https://www.linkedin.com/in/madhu-s-1605/">
+  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
+![](https://visitor-badge.glitch.me/badge?page_id=MadhuS-1605.MadhuS-1605)
+
+</br>
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=MadhuS-1605)](https://github.com/ryo-ma/github-profile-trophy) -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=MadhuS-1605&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=MadhuS-1605&left_color=green&right_color=red) -->
+
+📈 my github stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MadhuS-1605&show_icons=true&theme=gotham" alt="madhusgowda" />

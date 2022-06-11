@@ -1,4 +1,4 @@
-### Namsthe Geleyare 👋
+### Namsthe Geleyare 👋 Madhu S Gowda here,
 
 <!-- **MadhuS-1605/MadhuS-1605** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=MadhuS-1605)](https://github.com/ryo-ma/github-profile-trophy) -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=MadhuS-1605&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=maddhu.s&left_color=green&right_color=red)

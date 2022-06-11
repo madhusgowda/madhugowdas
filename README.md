@@ -1,10 +1,4 @@
-### Namsthe Geleyare 👋 Madhu S Gowda here,
-
-<!-- **MadhuS-1605/MadhuS-1605** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
-
+### Namasthe Geleyare 👋 Madhu S Gowda here,
 - 🔭 I’m currently working on Blockchain Tech.
 - 🌱 I’m currently learning Blockchain, Golang.
 - 👯 I’m looking to collaborate on Open Sources
@@ -39,20 +33,26 @@ Here are some ideas to get you started:
 </br>
 
 **Currently working with:**
-<a href="https://github.com/" title="GitHub"><img src="ttps://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</br>
+<!-- ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) -->
+<a href="https://github.com/" title="GitHub"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://gitlab.com/" title="GitLab"><img src="https://github.com/hussainweb/hussainweb/blob/main/icons/gitlab.png" /></a>
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/hussainweb/hussainweb/blob/main/icons/vscode.png" /></a>
+![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)
 </br>
 
 **Currently Learning:**
+</br>
 <a href="https://golang.org/" title="Golang"><img src="https://github.com/hussainweb/hussainweb/blob/main/icons/golang.png" /></a>
+
 </br>
-
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=MadhuS-1605)](https://github.com/ryo-ma/github-profile-trophy) -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=MadhuS-1605&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=MadhuS-1605&left_color=green&right_color=red) -->
+If you like what i do, maybe consider buying me a coffee/juice 🥺👉👈
 </br>
-📈 my github stats
+<a href="https://www.buymeacoffee.com/madhusgowda" target="_blank">
+<img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150"></a>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MadhuS-1605&show_icons=true&theme=gotham" alt="madhusgowda" />
+</br>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MadhuS-1605&show_icons=true&theme=gotham" alt="madhusgowda" /></p>
+
+</br>
+<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">

@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=MadhuS-1605)](https://github.com/ryo-ma/github-profile-trophy) -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=MadhuS-1605&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=MadhuS-1605&left_color=green&right_color=red)
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=MadhuS-1605&left_color=green&right_color=red) -->
